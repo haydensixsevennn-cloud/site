@@ -1,0 +1,11 @@
+{
+  "name": "minecraft-html-game",
+  "version": "1.0.0",
+  "description": "Minecraft-style HTML game",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
